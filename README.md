@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Adeniyii/AirBnB_clone/blob/main/assets/hbnb_logo.png" alt="HolbertonBnB logo">
+  <img src="https://github.com/gidambayiantony/AirBnB_clone/blob/main/assets/hbnb_logo.png" alt="HolbertonBnB logo">
 </p>
 
 
@@ -93,5 +93,6 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 
-* **Atabong Cecilia** <[cecilia-89](https://github.com/cecilia-89)>
-* **Ijabadeniyi Ifedayo** <[Adeniyii](https://github.com/Adeniyii)>
+
+* **Anthony Gidambayi** <[gidambayiantony](mailto:gidambayiantony@gmail.com)>
+
